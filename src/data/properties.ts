@@ -105,19 +105,19 @@ const propertiesRaw: Property[] = [
   },
   
   {
-  "id": 2,
-  "title": "Apartamento com 3 dormitórios no Edifício NYC - Jardim Cuiabá - Cuiabá/MT",
-  "type": "Apartamento",
-  "price": 5000,
-  "priceLabel": "R$ 5.000/mês",
-  "oldPrice": 6000,
-  "oldPriceLabel": "R$ 6.000",
-  "location": "Jardim Cuiabá, Cuiabá - MT",
-  "bedrooms": 3,
-  "bathrooms": 2,
-  "area": 79,
-  "image": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2hViNFvuSsFj%2B0oYpqAmSmX1aSZ7NSwvWq9183Rlp7E%2Bfn8ZpiA99o-iOvJS1qWvZxpRIQlYkNEWblafBzjdLaRC35U%2BBCXiwD3EoZLXkZQhyh3mQhw%2BV2IbZ6xr2QPxQ%2BKEOnRlhaNR4X%2BGVlODrMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5%2BhxzlXFx5k9oa%2BSqu619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8%2B5wEDqv3JFhXchgzWgPAoc9j0QdtPnaEFiA3KH7UbuRq7wI3Fh-P%2BOUrSZ1o78umdqqe5P-ejGvz0OUCjkpAZ%2BZPMLsZkdM-0XSMXCicycmtd%2Bx7z%2BLeLsE36IGDY%2BkVHVhOSnI5y4GQ6.jpg",
-  "images": [
+    id: 2,
+    title: "Apartamento com 3 dormitórios no Edifício NYC - Jardim Cuiabá - Cuiabá/MT",
+    type: "Apartamento",
+    price: 5000,
+    priceLabel: "R$ 5.000/mês",
+    oldPrice: 6000,
+    oldPriceLabel: "R$ 6.000",
+    location: "Jardim Cuiabá, Cuiabá - MT",
+    bedrooms: 3,
+    bathrooms: 2,
+    area: 79,
+    image: "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2hViNFvuSsFj%2B0oYpqAmSmX1aSZ7NSwvWq9183Rlp7E%2Bfn8ZpiA99o-iOvJS1qWvZxpRIQlYkNEWblafBzjdLaRC35U%2BBCXiwD3EoZLXkZQhyh3mQhw%2BV2IbZ6xr2QPxQ%2BKEOnRlhaNR4X%2BGVlODrMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5%2BhxzlXFx5k9oa%2BSqu619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8%2B5wEDqv3JFhXchgzWgPAoc9j0QdtPnaEFiA3KH7UbuRq7wI3Fh-P%2BOUrSZ1o78umdqqe5P-ejGvz0OUCjkpAZ%2BZPMLsZkdM-0XSMXCicycmtd%2Bx7z%2BLeLsE36IGDY%2BkVHVhOSnI5y4GQ6.jpg",
+    images: [
     "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2hViNFvuSsFj%2B0oYpqAmSmX1aSZ7NSwvWq9183Rlp7E%2Bfn8ZpiA99o-iOvJS1qWvZxpRIQlYkNEWblafBzjdLaRC35U%2BBCXiwD3EoZLXkZQhyh3mQhw%2BV2IbZ6xr2QPxQ%2BKEOnRlhaNR4X%2BGVlODrMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5%2BhxzlXFx5k9oa%2BSqu619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8%2B5wEDqv3JFhXchgzWgPAoc9j0QdtPnaEFiA3KH7UbuRq7wI3Fh-P%2BOUrSZ1o78umdqqe5P-ejGvz0OUCjkpAZ%2BZPMLsZkdM-0XSMXCicycmtd%2Bx7z%2BLeLsE36IGDY%2BkVHVhOSnI5y4GQ6.jpg",
     "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1pZ8t9R9zMVoJoTRJ-khSjZ47KK2O6bh1WIz7TLtLbD2v3nXPvHzoA95p7aAAWprfNIW8M2PHcpYNVVWUWxT43YG10BniGvvn-AT7lUfExf0BErgUhp2mW%2Bf4GeyFgx3X%2B7Der4o3TWV6LjAFFlQPlLCdkx8QdQ8Bi1SUxy8h8d55m-oS7TO7S-K5%2BhxzlXFx5k9oa%2BSqu619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8%2B5wEDqv3JFhXchgzWgPAoc9j0QdtPnaEFiA3KH7UbuRq7wI3Fh-P%2BOUrSZ1o78umdqqe5P-ejGvz0OUCjkpAZ%2BZPMLsZkdM-0XSMXCicycmtd%2Bx7z%2BLeLsE36IGDY%2BkVHVhOSnI5y4GQ6.jpg",
     "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3Vp84NhzCwDopcHZKOkrSqX9Y%2Btwfq8hWiJyKKJnYTxy8DOX9n65YUb1f-MLnjpjpNmZ-cqPV10OrlTZhO1b6WEAVNhvQm2-EP1EYRPQ0Bp1jYOrzcP%2BHiyQKj19VQ3xi%2BBGq-Eqi2dFqa9HF5lQPlLCdkx8QdQ8Bi1SUxy8h8d55m-oS7TO7S-K5%2BhxzlXFx5k9oa%2BSqu619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8%2B5wEDqv3JFhXchgzWgPAoc9j0QdtPnaEFiA3KH7UbuRq7wI3Fh-P%2BOUrSZ1o78umdqqe5P-ejGvz0OUCjkpAZ%2BZPMLsZkdM-0XSMXCicycmtd%2Bx7z%2BLeLsE36IGDY%2BkVHVhOSnI5y4GQ6.jpg",
@@ -159,9 +159,7 @@ const propertiesRaw: Property[] = [
   "transactionType": "Aluguel",
   "neighborhood": "Jardim Cuiabá",
   "isGatedCommunity": true,
-  "condoFee": 150,
-  "iptu": 150,
-  "rentalPackage": 5150
+  "condoFee": 150
   },
   
   { id: 3, title: "Apartamento Compacto Premium", type: "Apartamento", price: 295000, priceLabel: "R$ 295.000", oldPrice: 350000, oldPriceLabel: "R$ 350.000", location: "Jardim Europa", bedrooms: 1, bathrooms: 1, area: 42, image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop", images: ["https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop", "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&h=600&fit=crop", "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=800&h=600&fit=crop"], description: "Studio moderno e funcional em um dos bairros mais valorizados de São Paulo.", features: ["Mobiliado", "Vaga de garagem", "Segurança 24h", "Lazer completo"], coordinates: { lat: -23.5847, lng: -46.6735 }, transactionType: "Venda", neighborhood: "Jardim Europa", isGatedCommunity: false },
